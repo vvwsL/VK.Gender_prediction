@@ -109,7 +109,7 @@ params = {
 
 ### 1. Клонирование репозитория:
 ```bash
-git clone [<url-репозитория>](https://github.com/vvwsL/VK.Gender_prediction.git)
+git clone https://github.com/vvwsL/VK.Gender_prediction.git
 cd VK.Gender_prediction
 ```
 
